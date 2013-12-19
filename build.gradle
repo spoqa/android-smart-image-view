@@ -19,7 +19,3 @@ android {
         }
     }
 }
-
-dependencies {
-    compile project(':libs:android-smart-image-view')
-}
