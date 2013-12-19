@@ -5,3 +5,4 @@ build.num
 _includes
 _layouts
 gh-pages
+*.swp
